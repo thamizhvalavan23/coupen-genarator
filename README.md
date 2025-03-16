@@ -1,2 +1,2 @@
 # coupen-genarator
- assingment from internsala
+ assingment from internshala
